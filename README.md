@@ -24,7 +24,7 @@ q.printDate();
 diff(p, q);
 ```
 
-## Array Manipulation Program
+## 2. Array Manipulation Program
 
 This C++ program is designed to handle basic operations on a static array of size 5, including:
 
@@ -50,7 +50,7 @@ d.display();
 cout << d.caltot();
 ```
 
-## Account Management System
+## 3. Account Management System
 
 This C++ program simulates a simple bank account management system, allowing operations on account records stored in a binary file (`Acc.DAT`). Key operations include:
 
